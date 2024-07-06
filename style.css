@@ -1,0 +1,32 @@
+h3{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    text-shadow: 5px 5px 5px yellow;
+    font-style: italic;
+    
+    
+      
+}
+body{
+    background: url(https://media.istockphoto.com/id/1386452720/photo/graduating-students-hands-throwing-graduation-caps-in-the-air.jpg?s=612x612&w=0&k=20&c=r2fkxOAYako_hWHPNbMZRNVdz84EsdILzL1ieVbIVWs=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: x-large;
+    color: green;
+}
+span{
+    color:black ;
+    text-shadow: 1px 1px 1px red;
+    
+
+}
+marquee{
+    margin-right: 600px;
+    width: 100px;
+    
+}
+title{
+    ;
+}
+
